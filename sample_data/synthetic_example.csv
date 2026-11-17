@@ -1,0 +1,5 @@
+Current (A),P_incident (W),P_transmitted (W),P_absorbed (W),P_output (W),Optical efficiency (%)
+1.0,2.0,0.5,1.5,0.0,0.0
+1.5,3.0,0.6,2.4,0.4,16.667
+2.0,4.0,0.7,3.3,1.0,30.303
+2.5,5.0,0.8,4.2,1.6,38.095
